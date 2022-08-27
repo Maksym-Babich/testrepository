@@ -1,0 +1,16 @@
+{
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "css",
+            "savePathReplacementPairs": null,
+        },
+    ],
+    "liveSassCompile.settings.autoprefix": "defaults",
+    "ecsstractor_port.bem_nesting": true,
+    "ecsstractor_port.comment_style": "css",
+    "ecsstractor_port.brackets_newline_after": false,
+    "ecsstractor_port.add_comment": false
+}
